@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning Full-Stack development through a 14-week intensive bootcamp!
   
-- 💞️ I’m looking to collaborate on as many coding projects as I can, to keep improving my skills.
+- 👨🏽‍💻 I’m looking to collaborate on as many coding projects as I can, to keep improving my skills.
   
 - 📫 You can reach me through LinkedIn or Instagram.
   

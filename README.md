@@ -6,7 +6,7 @@
   
 - 👨🏽‍💻 I’m looking to collaborate on as many coding projects as I can, to keep improving my skills.
   
-- 📫 You can reach me through LinkedIn or Instagram.
+- 📫 You can reach me through LinkedIn.
   
 - 😄 Pronouns: he/him
   

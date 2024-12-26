@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in technology, music, movies/TV shows, and meeting new people.
   
-- 🌱 I’m currently learning Full-Stack development through a 14-week intensive bootcamp!
+- 🌱 Just finished a Full-Stack development 14-week intensive bootcamp!
   
 - 👨🏽‍💻 I’m looking to collaborate on as many coding projects as I can, to keep improving my skills.
   

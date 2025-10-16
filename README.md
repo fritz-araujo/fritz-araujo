@@ -22,11 +22,6 @@ Welcome to my GitHub profile! I'm a passionate developer on a journey to become 
 
 - LinkedIn: https://www.linkedin.com/in/frederico-penetra/
 - Email: fritzpenetra@gmail.com
-
-## 📊 GitHub Stats
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=fritz-araujo&show_icons=true&theme=radical)
-
 ---
 
 Feel free to explore my repositories and get in touch if you'd like to collaborate! 🤝🏼
